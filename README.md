@@ -1,1 +1,1 @@
-# ussd
+# OpenIT-USSD
